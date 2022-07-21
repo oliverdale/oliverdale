@@ -1,4 +1,4 @@
-### Hi there! I'm Oli, welcome to my GitHub!
+### Welcome to my GitHub!
 
 🤖 I am a mechatronics engineer from New Zealand that is driven to create change. I have a bachelor of engineering with honours from the University of Canterbury. 
 
